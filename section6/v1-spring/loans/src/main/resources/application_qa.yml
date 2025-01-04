@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to FernandoBank loans related QA APIs"
+  contactDetails:
+    name: "Ponky Salas - QA Lead"
+    email: "ponkysalasg@gmail.com"
+  onCallSupport:
+    - (666)555-1234
+    - (666)555-1345
