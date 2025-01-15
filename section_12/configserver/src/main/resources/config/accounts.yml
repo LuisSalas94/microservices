@@ -1,0 +1,14 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to FernandoBank accounts related local APIs"
+  contactDetails:
+    name: "Fernando Salas - Developer"
+    email: "luisfernandosalasg@gmail.com"
+  onCallSupport:
+    - (555)555-1234
+    - (555)555-1345
+
+
+

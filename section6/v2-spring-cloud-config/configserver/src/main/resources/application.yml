@@ -10,7 +10,7 @@ spring:
 #        native:
 #         search-locations: "classpath:/config"
         git:
-          uri: "git@github.com:LuisSalas94/fernando-config.git"
+          uri: "https://github.com/LuisSalas94/fernando-config.git"
           default-label: main
           timeout: 5
           clone-on-start: true
