@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to FernandoBank loans related prod APIs "
+  contactDetails:
+    name: "Fernando Salas - Product Owner"
+    email: "luisfernando@gmail.com"
+  onCallSupport:
+    - (453) 392-4829
+    - (236) 203-0384
